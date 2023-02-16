@@ -12,3 +12,7 @@ Meus projetos Python, meus estudos antigos
 ### Teste
 
 1. aréa de membroos
+
+### Imagen local
+
+![Imagem](img/python.jpg)
