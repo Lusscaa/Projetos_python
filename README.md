@@ -21,3 +21,4 @@ Meus projetos Python, meus estudos antigos
 ### Links interessantes
 
 [Google](https://www.google.com/)
+
