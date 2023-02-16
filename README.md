@@ -5,9 +5,10 @@ Meus projetos Python, meus estudos antigos
 ## Funcionalidades
 ###### Do 1 ao 10
 
-  (*) HTML (*)
-  (*) CSS (*)
-  (*) PHP (*)
+  *) HTML (*
+  *) CSS (*
+  *) PHP (*
 
-## Teste
+### Teste
 
+1. aréa de membroos
