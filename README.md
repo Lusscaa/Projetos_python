@@ -15,4 +15,4 @@ Meus projetos Python, meus estudos antigos
 
 ### Imagen local
 
-![Imagem](img/python.jpg)
+![Imagem](python.jpg)
