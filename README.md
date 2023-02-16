@@ -22,3 +22,4 @@ Meus projetos Python, meus estudos antigos
 
 [Google](https://www.google.com/)
 
+[![Qualquer logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fuma_pessoa__aleatoria_%2F&psig=AOvVaw1n39TaBwHNpSz0uTlFxqQW&ust=1676638548608000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDM4bqLmv0CFQAAAAAdAAAAABAE)](https://github.com/Lusscaa)
